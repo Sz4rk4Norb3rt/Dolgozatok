@@ -1,0 +1,4 @@
+Microsoft Management Console beépített sablon a windows-ban amit személyre szabhatunk.
+rövid dátum, a hét első napja, tizedes jegyek száma, számjegyek csoportosítása, negatív számformátum
+A Windows és MacOs operációs rendszerek beépített szolgáltatása, ami lehetőve teszi a telepített hardvereszközök és a hozzájuk kapcsolódó meghajtóprogramok áttekintését és beállításait
+tárhelynövelő
