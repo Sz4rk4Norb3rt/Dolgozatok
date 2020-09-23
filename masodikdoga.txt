@@ -1,0 +1,4 @@
+1. Mit jelent a <!DOCTYPE html> elem: HTMl 5-ös kódolású az oldal
+2.Hogyan definiáljuk a belső stílust a head elemben.: list-style-type: upper-alpha, decimal, circle
+3.Emmet utasítás átírása: p>({Példa:    }+span{Ez itt egy példa}++{ az Emmet-ről.}): 
+<p>Példák: <spam ez itt egy példa/spam></p>
